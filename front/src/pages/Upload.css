@@ -1,0 +1,25 @@
+.upload
+{
+    width: 200px;
+  display: flex;
+  height:50px;
+  border-radius: 4px;
+  background-color: #e7396a;
+  color: white;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+  cursor: pointer;
+  margin-top: 1em;
+
+
+}
+
+
+.upload:hover
+{
+    
+        visibility: 0.5%;
+      
+   
+}

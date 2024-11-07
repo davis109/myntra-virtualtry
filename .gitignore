@@ -1,0 +1,11 @@
+venv
+.env
+env
+chromadb_database
+sqlite_database
+__pycache__
+uploaded_user_images
+test.py
+output
+extracted_cloth_images
+extracted_cloth_images.zip
