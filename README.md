@@ -1,10 +1,4 @@
 
-## Problem Statement
-
-Today, most of the online shoppers are between the age bracket of 18-40, and this number keeps increasing every year as fast fashion gains momentum and people find reasons to buy more frequently from the comfort of their homes. Targeting this age group means reducing their need for visiting physical stores. With the growing database of clothing items, customers are struggling to find clothes that keep up with current trends and also align with their personal preferences. Not being able to see how clothes will look on one’s own body is a big hassle when shopping online. It makes it hard to mix and match items and get a sense of how they’ll look together.
-
-![image](https://github.com/aasmithadhani/Myntra-CoDivas/blob/main/Application%20screenshots/problem%20statement.png)
-
 
 ## Solution
 
